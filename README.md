@@ -51,7 +51,7 @@ src/
 ```
 
 ## 🎥 Vídeo Explicativo
-[![Vídeo Explicativo](cpu8bits_Dathmd1O.mp4)](cpu8bits_Dathmd1O.mp4)
+[Clique aqui para assistir ao vídeo](https://drive.google.com/file/d/1E6WTS0uOqnFnjK_V2C9azgfP8XdmFJgp/view?usp=sharing)
 
 
 
